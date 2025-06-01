@@ -1,4 +1,5 @@
 # PPM-PGM
 Portable Pixel Map.
 
-![primera imagen](./image.ppm)
+![primera imagen](./firstimage.png)
+![graduado](./gradient.png)
