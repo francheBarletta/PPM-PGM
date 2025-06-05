@@ -16,10 +16,8 @@ int main() {
         j = 0;
         while (j < ancho) {
             if (i < franja_alto || i >= 2 * franja_alto) {
-                // Celeste
                 fprintf(archivo, "116 172 223 ");
             } else {
-                // Blanco
                 fprintf(archivo, "255 255 255 ");
             }
             j++;
