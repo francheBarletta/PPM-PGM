@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main() {
+int main()
+{
     int ancho = 600;
     int alto = 400;
     int i = 0, j = 0;
@@ -12,12 +13,17 @@ int main() {
     fprintf(archivo, "%d %d\n", ancho, alto);
     fprintf(archivo, "255\n");
 
-    while (i < alto) {
+    while (i < alto)
+    {
         j = 0;
-        while (j < ancho) {
-            if (i < franja_alto || i >= 2 * franja_alto) {
+        while (j < ancho)
+        {
+            if (i < franja_alto || i >= 2 * franja_alto)
+            {
                 fprintf(archivo, "116 172 223 ");
-            } else {
+            }
+            else
+            {
                 fprintf(archivo, "255 255 255 ");
             }
             j++;

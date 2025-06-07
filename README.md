@@ -1,7 +1,7 @@
 # PPM-PGM
 Portable Pixel Map.
 
-![primera imagen](./firstimage.png)
-![graduado](./gradient.png)
+![grey-waves](./grey-waves.png)
+![gradient](./first-image.png)
 ![argentina-flag](./bandera_argentina.png)
 ![chess](./chess.png)
