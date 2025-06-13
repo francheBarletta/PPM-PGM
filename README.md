@@ -6,3 +6,4 @@ Portable Pixel Map.
 ![argentina-flag](./bandera_argentina.png)
 ![pixel_squares](./pixel_squares.png)
 ![bits](./bits.png)
+![circles](./epileptic-circles.png)
