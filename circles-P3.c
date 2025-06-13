@@ -36,7 +36,6 @@ int main()
     return 0;
 }
 
-
 /*
 El uso de formulas matematicas interesantes como por ejemplo esta que busque sobre circulos hacen imagenes
 impresionantes sin duda, misma estructura de codigo diferente formula y modo de aplicarla sobre el while
