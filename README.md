@@ -6,5 +6,6 @@ Portable Pixel Map.
 ![bits](./bits.png)
 ![pixel_squares](./pixel_squares.png)
 ![circles-P2](./circles-P2.png)
-![circles-P3](./epileptic-circles.png)
-![circles-P3](./sen_x.png)
+![epileptic-circles-P3](./epileptic-circles.png)
+![sen-x](./sen_x.png)
+![cos-x](./cos_x.png)
