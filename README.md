@@ -9,4 +9,3 @@ Portable Pixel Map.
 ![epileptic-circles-P3](./epileptic-circles.png)
 ![sen-x](./sen_x.png)
 ![cos-x](./cos_x.png)
-![cos-x](./cos_x.mp4)
