@@ -29,6 +29,7 @@ int main()
             int g = 100;
             int b = sin(dist * frecuencia) * amplitud + offset;
             printf("%d %d %d ", r, g, b);
+            
             x++;
         }
         printf("\n");
