@@ -7,7 +7,7 @@ int main()
     int x, y;
 
     printf("P3\n");
-    printf("# Ondas concéntricas en el canal azul\n");
+    printf("# Ondas circulares :)\n");
     printf("%d %d\n", width, height);
     printf("255\n");
 
@@ -29,7 +29,7 @@ int main()
             int g = 100;
             int b = sin(dist * frecuencia) * amplitud + offset;
             printf("%d %d %d ", r, g, b);
-            
+
             x++;
         }
         printf("\n");
