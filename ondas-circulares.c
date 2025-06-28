@@ -25,8 +25,8 @@ int main()
             int dy = y - height / 2;
             float dist = sqrt(dx * dx + dy * dy);
 
-            int r = 50;
-            int g = 100;
+            int r = 20;
+            int g = 180;
             int b = sin(dist * frecuencia) * amplitud + offset;
             printf("%d %d %d ", r, g, b);
 
