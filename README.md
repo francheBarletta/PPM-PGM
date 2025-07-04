@@ -9,5 +9,5 @@ Portable Pixel Map.
 ![epileptic-circles-P3](./epileptic-circles.png)
 ![sen-x](./sen_x.png)
 ![cos-x](./cos_x.png)
-![ondas-circulares](./ondas-circulares.png)
 ![estrella-O_O](./estrella-0_0.png)
+![ondas-circulares](./ondas-circulares.png)
