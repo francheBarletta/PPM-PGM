@@ -2,7 +2,7 @@
 
 int main()
 {
-    int pixel_size = 75;
+    int pixel_size = 30;
     int width = 10 * pixel_size;
     int height = 10 * pixel_size;
     int x, y;
