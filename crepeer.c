@@ -3,8 +3,8 @@
 int main()
 {
     int pixel_size = 30;
-    int width = 10 * pixel_size;
-    int height = 10 * pixel_size;
+    int width = 8 * pixel_size;
+    int height = 8 * pixel_size;
     int x, y;
 
     int art[8][8] = {
