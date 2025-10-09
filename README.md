@@ -13,4 +13,4 @@ Portable Pixel Map.
 ![estrella-O_O](./estrella-0_0.png)
 ![test_pixelart](./test_pixelart.png)
 ![chicken](./chicken.png)
-![creeper](./creeper.png)
+![crepeer](./crepeer.png)
