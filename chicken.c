@@ -19,7 +19,6 @@ int main()
         {0, 0, 0, 0, 1, 1, 0, 0, 0, 0},
         {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}};
 
-    // Tabla de colores RGB (índice = número en la matriz)
     int colores[10][3] = {
         {255, 255, 255}, // 0 blanco
         {255, 0, 0},     // 1 rojo
