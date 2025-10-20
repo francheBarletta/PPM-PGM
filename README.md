@@ -12,5 +12,6 @@ Portable Pixel Map.
 ![ondas-circulares](./ondas-circulares.png)
 ![estrella-O_O](./estrella-0_0.png)
 ![chicken](./chicken.png)
-![crepeer](./crepeer.png)
 ![enderman](./enderman.png)
+![crepeer](./crepeer.png)
+
