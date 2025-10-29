@@ -15,4 +15,3 @@ Portable Pixel Map.
 ![enderman](./enderman.png)
 ![crepeer](./crepeer.png)
 ![moon](./moon.png)
-
