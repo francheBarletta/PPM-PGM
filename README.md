@@ -14,4 +14,3 @@ Portable Pixel Map.
 ![chicken](./chicken.png)
 ![enderman](./enderman.png)
 ![crepeer](./crepeer.png)
-![moon](./moon.png)
